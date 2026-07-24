@@ -24,8 +24,9 @@ import (
 )
 
 const (
-	sampleValidateContractInput  = "../samples/contract.yaml"
-	sampleValidateContractOsType = "ccrt"
+	sampleValidateContractInput   = "../samples/contract.yaml"
+	sampleValidateContractOsType  = "ccrt"
+	sampleValidateContractSection = ""
 )
 
 var (
